@@ -1,0 +1,8 @@
+Minix TG3 Driver
+----------------
+
+
+This port of the Linux Broadcom Tigon III (tg3) driver (v3.99) to Minix 3.1.7 was commissioned by Dr Andy S. Tanenbaum for the Minix project http://www.minix3.org
+
+
+Colin Fowler <elethiomel@gmail.com>
